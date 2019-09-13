@@ -1,0 +1,19 @@
+{
+  "name": "cisco/laravel-aliyunsms",
+  "description": "package for aliyun sms , used for laravel,用于laravel的阿里云短信包【非阿里大鱼】，基于2018-07-31下载的官方SDK",
+  "authors": [
+    {
+      "name": "Cisco",
+      "email": "iamwangfei@126.com",
+      "QQ": "30990835",
+      "tel": "13939001809",
+      "date": "2018-07-31"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Cisco\\Aliyunsms\\": "src/"
+    }
+  }
+}
